@@ -1,0 +1,24 @@
+Last updated: May 23, 2025
+
+This Privacy Policy describes how my app handles data in connection with our automation tool for Instagram.
+
+Information We Do Not Collect
+We do not collect, store, or share any personal data from users. Our app does not request or access user data beyond the minimum required to interact with the Instagram Graph API for automated messaging and comment responses.
+
+How We Use Instagram API
+Our app uses the Instagram Graph API to automate basic interactions on a connected Instagram Business account, such as:
+
+Responding to direct messages
+
+Handling comments
+
+This is done solely for the account owner’s use. No information is transferred, stored, or shared with third parties.
+
+Data Security
+Since we do not store or manage user data, we do not process or secure any user information beyond access tokens provided by Meta, which are managed securely through n8n and the Meta platform.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. Updates will be posted on this GitHub repository.
+
+Contact
+If you have any questions about this Privacy Policy, you can contact us
